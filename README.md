@@ -125,55 +125,38 @@ Experienced in building **real-time AI systems**, **data-driven applications**, 
 ## 📊 Project Contribution Breakdown (By Domain)
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'bar',
-    data:{
-      labels:['AI / ML','LLM / NLP','Web & Software','IoT & Systems'],
-      datasets:[{
-        label:'Contribution %',
-        data:[45,20,25,10],
-        backgroundColor:[
-          'rgba(54,162,235,0.8)',
-          'rgba(153,102,255,0.8)',
-          'rgba(75,192,192,0.8)',
-          'rgba(255,159,64,0.8)'
-        ]
-      }]
-    },
-    options:{
-      plugins:{
-        legend:{display:false},
-        title:{
-          display:true,
-          text:'Contribution Distribution Based on Projects & Experience'
-        }
-      },
-      scales:{
-        y:{
-          beginAtZero:true,
-          max:50,
-          title:{display:true,text:'Percentage'}
-        }
-      }
-    }
-  }" />
+  <img
+    src="https://quickchart.io/chart?width=700&height=400&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AI%20%2F%20ML%22%2C%22LLM%20%2F%20NLP%22%2C%22Web%20%26%20Software%22%2C%22IoT%20%26%20Systems%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B45%2C20%2C25%2C10%5D%2C%22backgroundColor%22%3A%5B%22%2336A2EB%22%2C%22%239966FF%22%2C%22%234BC0C0%22%2C%22%23FF9F40%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Contribution%20Distribution%20Based%20on%20Projects%20and%20Experience%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A50%7D%7D%7D%7D"
+    alt="Project Contribution Breakdown"
+  />
 </p>
+
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulqadeerkhan14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdulqadeerkhan14&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadeerkhan14&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=abdulqadeerkhan14&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqadeerkhan14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqadeerkhan14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
