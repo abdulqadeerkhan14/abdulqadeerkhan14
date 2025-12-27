@@ -134,32 +134,6 @@ Experienced in building **real-time AI systems**, **data-driven applications**, 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abdulqadeerkhan14&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=abdulqadeerkhan14&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqadeerkhan14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
-
----
-
 ## 🎯 Career Objective
 
 To secure a role as an **AI Engineer, Machine Learning Engineer, or Software Developer**, where I can apply my expertise, grow continuously, and build impactful AI-driven solutions.
